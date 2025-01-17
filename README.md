@@ -40,4 +40,4 @@ O projeto **Gerador Mega** é uma aplicação simples que gera números aleatór
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Contato
-Para mais informações, entre em contato com [seu-email@exemplo.com](mailto:laiozago@gmail.com).
+Para mais informações, entre em contato com [laiozago@gmail.com](mailto:laiozago@gmail.com).
